@@ -57,7 +57,7 @@
  14. Error CORS terjadi apabila ada perbedaan origin (ip maupun port) dari pengirim ke penerima ketika melakukan transfer resource.
  15. Perbedaan cookie, sessionStorage, dan localStorage yaitu:
         * cookie adalah tempat menyimpan data pada browser yang memiliki masa expired.
-        * sessionLogin adalah tempat meyimpan data pada browser, namun akan hilang jika tab/browser ditutup.
+        * sessionStorage adalah tempat meyimpan data pada browser, namun akan hilang jika tab/browser ditutup.
         * localStorage dalah tempat menyimpan data pada browser. bisa dibilang permanent. karena akan hilang jika user memang sengaja menghapusnya.
   
   
