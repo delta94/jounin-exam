@@ -43,12 +43,12 @@
  10. Redux 
         Redux adalah salah satu state management library dalam javascript.
   
-11. Microservice adalah arsitektur dalam pengembangan aplikasi dimana tiap component independent atas fungsinya masing-masing. 
-    keuntungannya adalah:
-        * scalable
-        * tiap component bisa dibangun dengan bahasa pemrograman yg berbeda
-        * tiap component terisolasi dari component yg lainnya
-        * maintainability yg bagus
+11. Microservice adalah arsitektur dalam pengembangan aplikasi dimana tiap component independent atas fungsinya masing-masing.
+ keuntungannya adalah:
+    * scalable
+    * tiap component bisa dibangun dengan bahasa pemrograman yg berbeda
+    * tiap component terisolasi dari component yg lainnya
+    * maintainability yg bagus
   
  12. content-type adalah sebuah HTTP Headers yg digunakan sebagai penanda dari type data body yg dikirim dari request.
   
