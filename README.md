@@ -22,7 +22,7 @@
       * PUT
       * POST
         
-  5. ``` SELECT user FROM users WHERE user = 'Arkademy';```
+  5. ``` SELECT * FROM users WHERE users.name = 'Arkademy';```
   
   6. perbedaan Authorization dan Authentication
         * Authentication adalah proses pengecekan identitas dari user (biasanya ketika akan login)
